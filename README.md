@@ -14,7 +14,7 @@ Simply run it by doing the following:
 
 "python search.py ips.csv"
 
-It will only return exact matches, you can change that by setting the parameter "exact_match" as false within the data query. This script will tell you the following information:
+It will only return exact matches, you can change that by setting the parameter "exact_match" as false within the data query or deleting that exact query itself. This script will tell you the following information:
 
 1. Malware Family
 2. Confidence Level
@@ -22,4 +22,4 @@ It will only return exact matches, you can change that by setting the parameter 
 4. First Seen
 5. Last Seen
 
-Thank you so much for checking this out! Spread it! 
+Thank you so much for checking this out! Spread it if you want to!
